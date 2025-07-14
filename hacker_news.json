@@ -1,0 +1,602 @@
+[
+  {
+    "title": "Binding Application in Idris",
+    "link": "https://andrevidela.com/blog/2025/binding-application/"
+  },
+  {
+    "title": "A technical look at Iran's internet shutdowns",
+    "link": "https://zola.ink/blog/posts/a-technical-look-at-irans-internet-shutdown"
+  },
+  {
+    "title": "OpenCut: The open-source CapCut alternative",
+    "link": "https://github.com/OpenCut-app/OpenCut"
+  },
+  {
+    "title": "The underground cathedral protecting Tokyo from floods (2018)",
+    "link": "https://www.bbc.com/future/article/20181129-the-underground-cathedral-protecting-tokyo-from-floods"
+  },
+  {
+    "title": "How I build software quickly",
+    "link": "https://evanhahn.com/how-i-build-software-quickly/"
+  },
+  {
+    "title": "APKLab: Android Reverse-Engineering Workbench for VS Code",
+    "link": "https://github.com/APKLab/APKLab"
+  },
+  {
+    "title": "Burning a Magnesium NeXT Cube (1993)",
+    "link": "https://simson.net/ref/1993/cubefire.html"
+  },
+  {
+    "title": "Show HN: ArchGW \u2013 An intelligent edge and service proxy for agents",
+    "link": "https://github.com/katanemo/archgw/"
+  },
+  {
+    "title": "Show HN: FFmpeg in plain English \u2013 LLM-assisted FFmpeg in the browser",
+    "link": "https://vidmix.app/ffmpeg-in-plain-english/"
+  },
+  {
+    "title": "The upcoming GPT-3 moment for RL",
+    "link": "https://www.mechanize.work/blog/the-upcoming-gpt-3-moment-for-rl/"
+  },
+  {
+    "title": "HoloMem's drop-in holographic tape drive for LTO tape libraries",
+    "link": "https://blocksandfiles.com/2025/07/12/holomems-drop-in-holographic-tape-cartridge-for-lto-tape-libraries/"
+  },
+  {
+    "title": "NetBox Labs secures $35M as demand for network infrastructure management surges",
+    "link": "https://www.networkworld.com/article/4021829/netbox-labs-secures-35m-as-demand-for-network-infrastructure-management-surges.html"
+  },
+  {
+    "title": "C3 solved memory lifetimes with scopes",
+    "link": "https://c3-lang.org/blog/forget-borrow-checkers-c3-solved-memory-lifetimes-with-scopes/"
+  },
+  {
+    "title": "GLP-1s are breaking life insurance",
+    "link": "https://www.glp1digest.com/p/how-glp-1s-are-breaking-life-insurance"
+  },
+  {
+    "title": "Their Water Taps Ran Dry When Meta Built Next Door",
+    "link": "https://www.nytimes.com/2025/07/14/technology/meta-data-center-water.html"
+  },
+  {
+    "title": "Fine dining restaurants researching guests to make their dinner unforgettable",
+    "link": "https://www.sfgate.com/food/article/data-deep-dives-bay-area-fine-dining-restaurants-20404434.php"
+  },
+  {
+    "title": "Interview with Google's Android leader Sameer Samat",
+    "link": "https://www.techradar.com/phones/android/i-think-you-see-the-future-first-on-android-googles-android-leader-sameer-samat"
+  },
+  {
+    "title": "Show HN: A Raycast-compatible launcher for Linux",
+    "link": "https://github.com/ByteAtATime/raycast-linux"
+  },
+  {
+    "title": "Monitoring My Homelab, Simply",
+    "link": "https://b.tuxes.uk/simple-homelab-monitoring.html"
+  },
+  {
+    "title": "Myanmar\u2019s proliferating scam centers",
+    "link": "https://asia.nikkei.com/static/vdata/infographics/myanmar-scam-centers/"
+  },
+  {
+    "title": "EU Commission makes available age verification blueprint",
+    "link": "https://digital-strategy.ec.europa.eu/en/news/commission-makes-available-age-verification-blueprint"
+  },
+  {
+    "title": "Bypassing Google's big anti-adblock update",
+    "link": "https://0x44.xyz/blog/web-request-blocking/"
+  },
+  {
+    "title": "Kimi K2 is a state-of-the-art mixture-of-experts (MoE) language model",
+    "link": "https://twitter.com/Kimi_Moonshot/status/1943687594560332025"
+  },
+  {
+    "title": "How to scale RL to 10^26 FLOPs",
+    "link": "https://blog.jxmo.io/p/how-to-scale-rl-to-1026-flops"
+  },
+  {
+    "title": "Axon\u2019s Draft One is designed to defy transparency",
+    "link": "https://www.eff.org/deeplinks/2025/07/axons-draft-one-designed-defy-transparency"
+  },
+  {
+    "title": "Five companies now control over 90% of the restaurant food delivery market",
+    "link": "https://marketsaintefficient.substack.com/p/five-companies-now-control-over-90"
+  },
+  {
+    "title": "Reading Neuromancer for the first time in 2025",
+    "link": "https://mbh4h.substack.com/p/neuromancer-2025-review-william-gibson"
+  },
+  {
+    "title": "Marc Andreesen and the Billionaire Victims Club",
+    "link": "https://www.thebulwark.com/p/marc-andreesen-and-the-billionaire"
+  },
+  {
+    "title": "Local Chatbot RAG with FreeBSD Knowledge",
+    "link": "https://hackacad.net/post/2025-07-12-local-chatbot-rag-with-freebsd-knowledge/"
+  },
+  {
+    "title": "Does showing seconds in the system tray actually use more power?",
+    "link": "https://www.lttlabs.com/blog/2025/07/11/does-showing-seconds-in-the-system-tray-actually-use-more-power"
+  },
+  {
+    "title": "Understanding Tool Calling in LLMs \u2013 Step-by-Step with REST and Spring AI",
+    "link": "https://muthuishere.medium.com/understanding-tool-function-calling-in-llms-step-by-step-examples-in-rest-and-spring-ai-2149ecd6b18b"
+  },
+  {
+    "title": "Bold Mission to Hunt for Aliens on Venus Is Happening",
+    "link": "https://gizmodo.com/a-bold-mission-to-hunt-for-aliens-on-venus-is-actually-happening-2000627704"
+  },
+  {
+    "title": "Lenovo Legion Go S: Windows 11 vs. SteamOS Performance, and General Availability",
+    "link": "https://boilingsteam.com/lenovo-legion-go-s-windows-vs-steam-os-performance/"
+  },
+  {
+    "title": "Notes on Graham's ANSI Common Lisp (2024)",
+    "link": "https://courses.cs.northwestern.edu/325/readings/graham/graham-notes.html"
+  },
+  {
+    "title": "MacPaint Art from the Mid-80s Still Looks Great Today",
+    "link": "https://blog.decryption.net.au/posts/macpaint.html"
+  },
+  {
+    "title": "Show HN: Learn LLMs LeetCode Style",
+    "link": "https://github.com/Exorust/TorchLeet"
+  },
+  {
+    "title": "The Robot Sculptors of Italy",
+    "link": "https://www.bloomberg.com/features/2025-robot-sculptors-marble/"
+  },
+  {
+    "title": "The North Korean fake IT worker problem is ubiquitous",
+    "link": "https://www.theregister.com/2025/07/13/fake_it_worker_problem/"
+  },
+  {
+    "title": "Edward Burtynsky's monumental chronicle of the human impact on the planet",
+    "link": "https://www.newyorker.com/culture/photo-booth/earths-poet-of-scale"
+  },
+  {
+    "title": "The Decipherment of the Dhofari Script",
+    "link": "https://www.science.org/content/article/mysterious-pre-islamic-script-oman-finally-deciphered"
+  },
+  {
+    "title": "James Webb, Hubble space telescopes face reduction in operations",
+    "link": "https://www.astronomy.com/science/james-webb-hubble-space-telescopes-face-reduction-in-operations-over-funding-shortfalls/"
+  },
+  {
+    "title": "Chimpfluencers Stick Grass in Their Ears and Butts in Latest Viral Trend",
+    "link": "https://www.sciencealert.com/chimpfluencers-are-sticking-grass-in-their-ears-and-butts-in-latest-viral-trend"
+  },
+  {
+    "title": "OpenAI\u2019s Windsurf deal is off, and Windsurf\u2019s CEO is going to Google",
+    "link": "https://www.theverge.com/openai/705999/google-windsurf-ceo-openai"
+  },
+  {
+    "title": "The hunt for a perfect laptop continues",
+    "link": "https://pointieststick.com/2025/07/13/the-hunt-for-a-perfect-laptop-continues/"
+  },
+  {
+    "title": "The Gottorf Globe and its reconstruction",
+    "link": "https://gottorfer-globus.de/en/the-gottorf-globe"
+  },
+  {
+    "title": "Lua beats MicroPython for embedded devs",
+    "link": "https://www.embedded.com/why-lua-beats-micropython-for-serious-embedded-devs"
+  },
+  {
+    "title": "Programming Language Theory has a public relations problem",
+    "link": "https://happyfellow.bearblog.dev/programming-language-theory-has-a-public-relations-problem/"
+  },
+  {
+    "title": "The Tokyo capsule tower that gave pod-living penthouse chic",
+    "link": "https://www.theguardian.com/artanddesign/2025/jul/07/pod-living-nakagin-capsule-tower-tokyo-architectural-marvel-penthouse"
+  },
+  {
+    "title": "Aeron: Efficient reliable UDP unicast, UDP multicast, and IPC message transport",
+    "link": "https://github.com/aeron-io/aeron"
+  },
+  {
+    "title": "Zig's New Async I/O",
+    "link": "https://kristoff.it/blog/zig-new-async-io/"
+  },
+  {
+    "title": "Two-step system makes plastic from carbon dioxide, water and electricity",
+    "link": "https://phys.org/news/2025-06-plastic-carbon-dioxide-electricity.html"
+  },
+  {
+    "title": "Telef\u00f3nica DE shifts VMware support to Spinnaker due to cost",
+    "link": "https://www.theregister.com/2025/07/11/telefnica_germany_shifts_vmware_support/"
+  },
+  {
+    "title": "Let me pay for Firefox",
+    "link": "https://discourse.mozilla.org/t/let-me-pay-for-firefox/141297"
+  },
+  {
+    "title": "For Algorithms, Memory Is a Far More Powerful Resource Than Time",
+    "link": "https://www.wired.com/story/for-algorithms-a-little-memory-outweighs-a-lot-of-time/"
+  },
+  {
+    "title": "C++: Maps on Chains",
+    "link": "http://bannalia.blogspot.com/2025/07/maps-on-chains.html"
+  },
+  {
+    "title": "Algorithms for making interesting organic simulations",
+    "link": "https://bleuje.com/physarum-explanation/"
+  },
+  {
+    "title": "A job queue in two lines of JavaScript",
+    "link": "https://jameshfisher.com/2025/07/07/a-job-queue-in-two-lines-of-js/"
+  },
+  {
+    "title": "Experimental imperative-style music sequence generator engine",
+    "link": "https://github.com/renoise/pattrns"
+  },
+  {
+    "title": "Switching to Claude Code and VSCode Inside Docker",
+    "link": "https://timsh.org/claude-inside-docker/"
+  },
+  {
+    "title": "Brain Box \u2013 The Safe Space text adventure game",
+    "link": "https://strangemachine.tv/safespace/"
+  },
+  {
+    "title": "Oakland cops gave ICE license plate data; SFPD also illegally shared with feds",
+    "link": "https://sfstandard.com/2025/07/14/oakland-san-francisco-ice-license-plate-readers/"
+  },
+  {
+    "title": "AI slows down open source developers. Peter Naur can teach us why",
+    "link": "https://johnwhiles.com/posts/mental-models-vs-ai-tools"
+  },
+  {
+    "title": "Japanese Grandparents Create Life-Size Totoro with Bus Stop for Grandkids (2020)",
+    "link": "https://mymodernmet.com/totoro-sculpture-bus-stop/"
+  },
+  {
+    "title": "It took 45 years, but spreadsheet legend Mitch Kapor finally got his MIT degree",
+    "link": "https://www.bostonglobe.com/2025/06/24/business/mitch-kapor-mit-degree-bill-aulet/"
+  },
+  {
+    "title": "Building Modular Rails Applications: A Deep Dive into Rails Engines",
+    "link": "https://www.panasiti.me/blog/modular-rails-applications-rails-engines-active-storage-dashboard/"
+  },
+  {
+    "title": "Strategies for Fast Lexers",
+    "link": "https://xnacly.me/posts/2025/fast-lexer-strategies/"
+  },
+  {
+    "title": "Data Brokers Are Selling Your Flight Information to CBP and ICE",
+    "link": "https://www.eff.org/deeplinks/2025/07/data-brokers-are-selling-your-flight-information-cbp-and-ice"
+  },
+  {
+    "title": "Meticulous (YC S21) is hiring in UK to redefine software dev,\u00a3100k-300k and equity",
+    "link": "https://tinyurl.com/join-meticulous"
+  },
+  {
+    "title": "Embedding User-Defined Indexes in Apache Parquet",
+    "link": "https://datafusion.apache.org/blog/2025/07/14/user-defined-parquet-indexes/"
+  },
+  {
+    "title": "Lightning Detector Circuits",
+    "link": "https://techlib.com/electronics/lightningnew.htm"
+  },
+  {
+    "title": "AWS launches Kiro, its Cursor clone",
+    "link": "https://kiro.dev/blog/introducing-kiro/"
+  },
+  {
+    "title": "Why random selection is necessary to create stable meritocratic institutions",
+    "link": "https://assemblingamerica.substack.com/p/there-is-no-meritocracy-without-lottocracy"
+  },
+  {
+    "title": "Two guys hated using Comcast, so they built their own fiber ISP",
+    "link": "https://arstechnica.com/tech-policy/2025/07/two-guys-hated-using-comcast-so-they-built-their-own-fiber-isp/"
+  },
+  {
+    "title": "Impacts of adding PV solar system to internal combustion engine vehicles",
+    "link": "https://www.jstor.org/stable/26169128"
+  },
+  {
+    "title": "Show HN: Refine \u2013 A Local Alternative to Grammarly",
+    "link": "https://refine.sh"
+  },
+  {
+    "title": "Tandy Corporation, Part 3 Becoming IBM Compatible",
+    "link": "https://www.abortretry.fail/p/tandy-corporation-part-3"
+  },
+  {
+    "title": "Lossless Float Image Compression",
+    "link": "https://aras-p.info/blog/2025/07/08/Lossless-Float-Image-Compression/"
+  },
+  {
+    "title": "You Are in a Box",
+    "link": "https://jyn.dev/you-are-in-a-box/"
+  },
+  {
+    "title": "Show HN: Ten years of running every day, visualized",
+    "link": "https://nodaysoff.run"
+  },
+  {
+    "title": "GM, LG to upgrade Tennessee plant to make low-cost EV batteries",
+    "link": "https://www.cnbc.com/2025/07/14/gm-lg-ultium-spring-hill-tennessee-plant-ev-batteries.html"
+  },
+  {
+    "title": "Six Game Devs Speak to Computer Games Mag (1984)",
+    "link": "https://computeradsfromthepast.substack.com/p/six-game-devs-speak-to-computer-games"
+  },
+  {
+    "title": "Let's Learn x86-64 Assembly (2020)",
+    "link": "https://gpfault.net/posts/asm-tut-0.txt.html"
+  },
+  {
+    "title": "Self-imposed ban \u2013 a lightweight bash script to block commands",
+    "link": "https://github.com/alex-moon/ban"
+  },
+  {
+    "title": "Apple's Browser Engine Ban Persists, Even Under the DMA",
+    "link": "https://open-web-advocacy.org/blog/apples-browser-engine-ban-persists-even-under-the-dma/"
+  },
+  {
+    "title": "Lasagna Battery Cell",
+    "link": "https://amazingribs.com/more-technique-and-science/more-cooking-science/reactive-pans/"
+  },
+  {
+    "title": "Emergent Misalignment: Narrow finetuning can produce broadly misaligned LLMs",
+    "link": "https://arxiv.org/abs/2502.17424"
+  },
+  {
+    "title": "Happy 20th Birthday, Django",
+    "link": "https://www.djangoproject.com/weblog/2025/jul/13/happy-20th-birthday-django/"
+  },
+  {
+    "title": "How does a screen work?",
+    "link": "https://www.makingsoftware.com/chapters/how-a-screen-works"
+  },
+  {
+    "title": "Concurrent Programming with Harmony",
+    "link": "https://harmony.cs.cornell.edu/book/"
+  },
+  {
+    "title": "Hypercapitalism and the AI talent wars",
+    "link": "https://blog.johnluttig.com/p/hypercapitalism-and-the-ai-talent"
+  },
+  {
+    "title": "The fish kick may be the fastest subsurface swim stroke yet (2015)",
+    "link": "https://nautil.us/is-this-new-swim-stroke-the-fastest-yet-235511/"
+  },
+  {
+    "title": "Replication of Quantum Factorisation Records with an 8-bit Home Computer [pdf]",
+    "link": "https://eprint.iacr.org/2025/1237.pdf"
+  },
+  {
+    "title": "Faking a JPEG",
+    "link": "https://www.ty-penguin.org.uk/~auj/blog/2025/03/25/fake-jpeg/"
+  },
+  {
+    "title": "Reverse proxy deep dive",
+    "link": "https://medium.com/@mitendra_mahto/cross-posted-from-https-startwithawhy-com-reverseproxy-2024-01-15-reverseproxy-deep-dive-html-c3443dc3e0e5"
+  },
+  {
+    "title": "Xenharmlib: A music theory library that supports non-western harmonic systems",
+    "link": "https://xenharmlib.readthedocs.io/en/latest/"
+  },
+  {
+    "title": "Preliminary report into Air India crash released",
+    "link": "https://www.bbc.co.uk/news/live/cx20p2x9093t"
+  },
+  {
+    "title": "Parse, Don\u2019t Validate \u2013 Some C Safety Tips",
+    "link": "https://www.lelanthran.com/chap13/content.html"
+  },
+  {
+    "title": "Daniel Kleppner, Physicist Who Brought Atomic Clock Precision to GPS, Has Died",
+    "link": "https://www.nytimes.com/2025/07/12/science/daniel-kleppner-dead.html"
+  },
+  {
+    "title": "U.S. abandons hunt for signal of cosmic inflation",
+    "link": "https://www.science.org/content/article/u-s-abandons-hunt-signal-cosmic-inflation"
+  },
+  {
+    "title": "Astronomers race to study interstellar interloper",
+    "link": "https://www.science.org/content/article/astronomers-race-study-interstellar-interloper"
+  },
+  {
+    "title": "Daily Notes Considered Harmful",
+    "link": "https://literallythevoid.com/daily-notes-considered-harmful/"
+  },
+  {
+    "title": "OpenAI delays launch of open-weight model",
+    "link": "https://twitter.com/sama/status/1943837550369812814"
+  },
+  {
+    "title": "Show HN: Vibe Kanban \u2013 Kanban board to manage your AI coding agents",
+    "link": "https://github.com/BloopAI/vibe-kanban"
+  },
+  {
+    "title": "The death of partying in the USA",
+    "link": "https://www.derekthompson.org/p/the-death-of-partying-in-the-usaand"
+  },
+  {
+    "title": "A Century of Quantum Mechanics",
+    "link": "https://home.cern/news/news/physics/century-quantum-mechanics"
+  },
+  {
+    "title": "Dogwalk: Blender Studio's Official Game",
+    "link": "https://store.steampowered.com/app/3775050/DOGWALK/"
+  },
+  {
+    "title": "Drones Are Key to Winning Wars Now. The U.S. Makes Hardly Any",
+    "link": "https://www.nytimes.com/2025/07/13/business/drones-us-military-manufacturing-lags.html"
+  },
+  {
+    "title": "Holographic ribbon aims to oust magnetic tape with 50-year life span and 200TB",
+    "link": "https://www.tomshardware.com/pc-components/storage/holographic-ribbon-aims-to-oust-magnetic-tape-with-50-year-life-span-and-200tb-capacity-per-cartridge-holomem-says-optical-ribbon-based-carts-work-with-some-components-of-existing-systems-reducing-fricition"
+  },
+  {
+    "title": "Introduction to Digital Filters (2024)",
+    "link": "https://ccrma.stanford.edu/~jos/filters/"
+  },
+  {
+    "title": "Ask HN: How much of OpenAI code is written by AI?",
+    "link": "item?id=44553379"
+  },
+  {
+    "title": "Making a Speedrun Timer in D",
+    "link": "https://bradley.chatha.dev/blog/linux-speedrun-timer-dlang/post/"
+  },
+  {
+    "title": "Million Times Million",
+    "link": "https://susam.net/million-times-million.html"
+  },
+  {
+    "title": "Working through 'Writing A C Compiler'",
+    "link": "https://jollygoodsw.wordpress.com/2025/03/13/working-through-writing-a-c-compiler/"
+  },
+  {
+    "title": "Hill Space: Neural nets that do perfect arithmetic (to 10\u207b\u00b9\u2076 precision)",
+    "link": "https://hillspace.justindujardin.com/"
+  },
+  {
+    "title": "Show HN: I built this to talk Danish to my girlfriend \u2013 works with any language",
+    "link": "https://menerdu.vercel.app/"
+  },
+  {
+    "title": "Jank is C++",
+    "link": "https://jank-lang.org/blog/2025-07-11-jank-is-cpp/"
+  },
+  {
+    "title": "Measuring power network frequency using junk you have in your closet",
+    "link": "https://halcy.de/blog/2025/02/09/measuring-power-network-frequency-using-junk-you-have-in-your-closet/"
+  },
+  {
+    "title": "Upgrading an M4 Pro Mac mini's storage for half the price",
+    "link": "https://www.jeffgeerling.com/blog/2025/upgrading-m4-pro-mac-minis-storage-half-price"
+  },
+  {
+    "title": "Generating (almost) equally-spaced points along a parabola",
+    "link": "https://arjuns07.github.io/posts/07-2025-equidistant-parabolic-points/"
+  },
+  {
+    "title": "Show HN: c0admin \u2013 A terminal-based AI assistant for Linux sysadmins",
+    "link": "https://github.com/mbrell/c0admin"
+  },
+  {
+    "title": "China's Mini PC Production [video]",
+    "link": "https://www.youtube.com/watch?v=ohwI3V207Ts"
+  },
+  {
+    "title": "Chrome's hidden X-Browser-Validation header reverse engineered",
+    "link": "https://github.com/dsekz/chrome-x-browser-validation-header"
+  },
+  {
+    "title": "Show HN: I built an LLM chat app because we shouldn't need 10 AI subscriptions",
+    "link": "https://prismharmony.com/chat"
+  },
+  {
+    "title": "ETH Zurich and EPFL to release a LLM developed on public infrastructure",
+    "link": "https://ethz.ch/en/news-and-events/eth-news/news/2025/07/a-language-model-built-for-the-public-good.html"
+  },
+  {
+    "title": "Boxtype\u2013Devlog (Part 1)",
+    "link": "https://inconvergent.net/2025/boxtype-devlog/"
+  },
+  {
+    "title": "Gaming cancer: How citizen science games could help cure disease",
+    "link": "https://thereader.mitpress.mit.edu/how-citizen-science-games-could-help-cure-disease/"
+  },
+  {
+    "title": "HNSW as abstract data structure: video intro to Redis vector sets [video]",
+    "link": "https://www.youtube.com/watch?v=kVApsFUeuEA"
+  },
+  {
+    "title": "Hungary's oldest library fighting to save 100k books from a beetle infestation",
+    "link": "https://www.nbcnews.com/world/hungary/hungary-pannonhalma-archabbey-beetle-infestation-rcna218539"
+  },
+  {
+    "title": "Second Variety, by Philip K. Dick (1953)",
+    "link": "https://www.gutenberg.org/files/32032/32032-h/32032-h.htm"
+  },
+  {
+    "title": "Supreme Court's ruling practically wipes out free speech for sex writing online",
+    "link": "https://ellsberg.substack.com/p/free-speech"
+  },
+  {
+    "title": "FMD Android: secure open source alternative to Google's Find My Device",
+    "link": "https://gitlab.com/fmd-foss/fmd-android"
+  },
+  {
+    "title": "A Mental Model for C++ Coroutine",
+    "link": "https://uvdn7.github.io/cpp-coro/"
+  },
+  {
+    "title": "A.I. Is Making Sure You Pay for That Ding on Your Rental Car",
+    "link": "https://www.nytimes.com/2025/07/09/travel/rental-car-ai-scanner-hertz.html"
+  },
+  {
+    "title": "Proposed NOAA Budget Kills Program Designed to Prevent Satellite Collisions",
+    "link": "https://skyandtelescope.org/astronomy-news/proposed-noaa-budget-kills-program-to-prevent-satellite-collisions/"
+  },
+  {
+    "title": "Exposing a web service with Cloudflare Tunnel (2022)",
+    "link": "https://erisa.dev/exposing-a-web-service-with-cloudflare-tunnel/"
+  },
+  {
+    "title": "Bootstrapping a side project into a profitable seven-figure business",
+    "link": "https://projectionlab.com/blog/we-reached-1m-arr-with-zero-funding"
+  },
+  {
+    "title": "Hacking Coroutines into C",
+    "link": "https://wiomoc.de/misc/posts/hacking_coroutines_into_c.html"
+  },
+  {
+    "title": "Lost Chapter of Automate the Boring Stuff: Audio, Video, and Webcams in Python",
+    "link": "https://inventwithpython.com/blog/lost-av-chapter.html"
+  },
+  {
+    "title": "Incus \u2013 Next-generation system container, application container, and VM manager",
+    "link": "https://linuxcontainers.org/incus/"
+  },
+  {
+    "title": "Capturing the International Space Station (2022)",
+    "link": "https://cosmicbackground.io/blogs/learn-about-how-these-are-captured/capturing-the-international-space-station"
+  },
+  {
+    "title": "Show HN: I made a JSFiddle-style playground to test and share prompts fast",
+    "link": "https://langfa.st/"
+  },
+  {
+    "title": "A software conference that advocates for quality",
+    "link": "https://bettersoftwareconference.com/"
+  },
+  {
+    "title": "Most people who buy games on Steam never play them",
+    "link": "https://howtomarketagame.com/2025/06/03/most-people-who-buy-your-game-wont-play-it/"
+  },
+  {
+    "title": "Operese: A Windows to Linux Migration Tool [video]",
+    "link": "https://www.youtube.com/watch?v=PMoXClh8emw"
+  },
+  {
+    "title": "Google confirms it's 'combining' Chrome OS and Android into a single platform",
+    "link": "https://www.androidauthority.com/google-combine-chrome-os-android-3577035/"
+  },
+  {
+    "title": "Musks xAI pressed employees to install surveillance software on personal laptops",
+    "link": "https://www.businessinsider.com/xai-pressed-workers-install-surveillance-software-personal-laptops-2025-7"
+  },
+  {
+    "title": "New Date(\"wtf\") \u2013 How well do you know JavaScript's Date class?",
+    "link": "https://jsdate.wtf"
+  },
+  {
+    "title": "Malware found in official gravityforms plugin indicating supply chain breach",
+    "link": "https://patchstack.com/articles/critical-malware-found-in-gravityforms-official-plugin-site/"
+  },
+  {
+    "title": "The Scourge of Arial (2001)",
+    "link": "https://www.marksimonson.com/notebook/view/the-scourge-of-arial/"
+  },
+  {
+    "title": "Monorail \u2013 Turn CSS animations into interactive SVG graphs",
+    "link": "https://muffinman.io/monorail/"
+  }
+]
